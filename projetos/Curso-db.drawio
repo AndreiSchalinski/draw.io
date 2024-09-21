@@ -40,8 +40,8 @@
         <mxCell id="IeOA8ReUt-ZsaUMzHvYP-7" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="290" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IeOA8ReUt-ZsaUMzHvYP-8" value="CPF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="340" y="290" width="60" height="30" as="geometry" />
+        <mxCell id="IeOA8ReUt-ZsaUMzHvYP-8" value="ENDEREÇO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IeOA8ReUt-ZsaUMzHvYP-9" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IeOA8ReUt-ZsaUMzHvYP-10">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,7 +64,7 @@
         <mxCell id="IeOA8ReUt-ZsaUMzHvYP-13" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="370" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IeOA8ReUt-ZsaUMzHvYP-14" value="ENDEREÇO" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="IeOA8ReUt-ZsaUMzHvYP-14" value="TELEFONE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="354" y="370" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="IeOA8ReUt-ZsaUMzHvYP-18" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="IeOA8ReUt-ZsaUMzHvYP-19">
@@ -76,8 +76,8 @@
         <mxCell id="IeOA8ReUt-ZsaUMzHvYP-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="310" y="410" width="30" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="IeOA8ReUt-ZsaUMzHvYP-20" value="TELEFONE" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="410" width="60" height="30" as="geometry" />
+        <mxCell id="IeOA8ReUt-ZsaUMzHvYP-20" value="CPF" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="340" y="410" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
